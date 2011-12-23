@@ -1,0 +1,5 @@
+ATTENTION: THIS IS SOMETHING BETWEEN A POC AND AN ALPHA VERSION (NO TEST, NO CODE OPTIMIZATION, ETC..). THIS PROJECT WILL BE NOT ACTIVELY DEVELOPED, SO DON'T EXCEPT ANY TYPE OF QUICK SUPPORT
+
+GrooveMyTunes is a Java based software that can import your itunes playlist (or also your entire library) on a Grooveshark account. As you read on the first line is a project born trying to kill my boredom. GrooveMyTunes? is full of bugs, a lot of useless and non-optimized code, a thousand of logically mistake and other things that you can see reading the code.. But also if isn't coded very well, it seems to do the job.
+
+Opening GrooveMyTunes you will choose a .xml playlist files and then two list with local file and the relative grooveshark song will be showed. Because of the comparable algorithm some matched songs are completely wrong (so if you want to use this software i suggest to check all the match and use the "Delete Match" button). After this you can click on the "Start Importing" button.. You will see the new playlist under your playlist section on grooveshark.com (is not pinned on the left sidebar).
