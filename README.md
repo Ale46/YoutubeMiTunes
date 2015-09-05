@@ -1,4 +1,4 @@
-YoutubeMiTunes [![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.svg)](https://gratipay.com/~Ale46/)
+YoutubeMiTunes [![gittip](https://img.shields.io/gittip/Ale46.svg)](https://www.gratipay.com/Ale46/)
 ===================
 
 
